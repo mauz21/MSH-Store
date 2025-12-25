@@ -1,7 +1,7 @@
 MSH Store
 
 A pixel-perfect eCommerce website inspired by the Brandstore-02 template from websitedemos.net.
-This project demonstrates how Google AI Studio can be used to generate a modern, responsive, and interactive online store with professional UI/UX standards.
+This project demonstrates how to generate a modern, responsive, and interactive online store with professional UI/UX standards.
 
 🔍 Project Overview
 
@@ -39,23 +39,23 @@ SEO-friendly HTML structure
 
 🧱 Pages Included
 
-Home
+**Home**
 
-Store (Product Listing)
+**Store (Product Listing)**
 
-Product Details
+**Product Details**
 
-Cart
+**Cart**
 
-Checkout
+**Checkout**
 
-About
+**About**
 
-Contact
+**Contact**
 
-My Account / Login
+**My Account / Login**
 
-🛠️ Tech Stack
+🛠️ _**Tech Stack**_
 
 HTML5
 
